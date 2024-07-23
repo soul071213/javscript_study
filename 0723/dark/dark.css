@@ -1,0 +1,15 @@
+#btn{
+    background-color: aqua;
+    border-radius: 10px;
+    color: white;
+    cursor: pointer;
+    border: 0;
+}
+body{
+    padding: 2em;
+    transition: .5s;
+}
+.dark_theme{
+    background-color: black;
+    color: white;
+}
