@@ -1,0 +1,22 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+#kim{
+    margin: auto;
+    width: 800px;
+    height: 200px;
+    outline: dashed 1px black;
+    display: flex;
+
+}
+
+#box{
+    width: 100px;
+    height: 100px;
+    background-color: aquamarine;
+    text-align: center;
+    margin: auto;
+    
+}
