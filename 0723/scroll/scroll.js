@@ -16,3 +16,4 @@ const getScrollPrecent = () => {
 } 
 
 window.addEventListener('scroll',getScrollPrecent);
+
